@@ -53,7 +53,7 @@ Ce projet permet non seulement de démontrer mes compétences en **front-end dev
 ![Aperçu de la section Portfolio](./captures/portfolio.png)
 ![Aperçu de la section Contact](./captures/contact.png)
 
-Lien du site en ligne : [👉 Voir le portfolio] ()
+Lien du site en ligne : [👉 Voir le portfolio] (https://moulaye-omar.github.io/portfolio/)
 
 ---
 
